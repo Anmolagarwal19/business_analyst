@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Excel files (Dashboard - Private)
+*.xlsx
+*.xls
+*.xlsm
+*.xltx
+*.xltm
+*.xlam
+
+# Dashboard folder (Private)
+Dashboard/
+
+# OS files
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS specific
+.AppleDouble
+.LSOverride
+
+# Public Data Files (DO NOT IGNORE)
+# Data files should be tracked
+!Data/
+!Data/*.csv
+!Data/*.txt
+
+# Documentation and configuration (DO NOT IGNORE)
+!README.md
+!SOURCES.md
+!.gitignore
